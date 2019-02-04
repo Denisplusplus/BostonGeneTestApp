@@ -117,3 +117,16 @@ def sendMassage(fileUrl, md5, toEmail):
 
 # Тестирование
 
+1) POST запрос с почтой и файлом
+![Image alt](imgs/test1.png)
+![Image alt](imgs/test2.png)
+2) GET запрос по существующему айди
+![Image alt](imgs/test3.png)
+3) GET запрос по не существующему айди
+![Image alt](imgs/test4.png)
+4) Некорректная ссылка на файл
+![Image alt](imgs/test5.png)
+5) POST запрос только с файлом
+![Image alt](imgs/test6.png)
+
+
